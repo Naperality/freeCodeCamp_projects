@@ -13,15 +13,16 @@ I completed this certification to build a strong foundation in Python, which I u
 - **Platform**: freeCodeCamp
 - **Total Hours**: ~300 hours (self-paced)
 - **Date Completed**: August 3, 2025
+- **Certificate URL**: [My Certficate](https://freecodecamp.org/certification/naperality/scientific-computing-with-python-v7)
 
 ### 🛠️ Projects Completed
 Throughout the course, I worked on several hands-on projects that helped solidify my understanding of Python. Here are the main projects I completed:
 
-- 1. Arithmetic Formatter Project
-- 2. Time Calculator Project
-- 3. Budget App Project
-- 4. Polygon Area Calculator Project
-- 5. Probability Calculator Project
+1. [Arithmetic Formatter Project](./First/FINAL%20Project/)
+2. [Time Calculator Project](./Second/FINAL%20Project/)
+3. [Budget App Project](./Third/FINAL%20Project/)
+4. [Polygon Area Calculator Project](./Fourth/Final%20Project/)
+5. [Probability Calculator Project](./Fifth/Final%20Project/)
 
 ### 👨‍💻 Conclusion
 Completing the ***Computing with Python*** certification was a rewarding experience that provided me with the skills and confidence to use Python for a wide variety of projects. I feel equipped to tackle more advanced topics in programming, and I’m excited to continue building on the knowledge I’ve gained.
